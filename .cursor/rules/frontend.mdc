@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- pnpm を使用する
+- shadcn を使用する
+  - コンポーネント追加時は `pnpm dlx shadcn@latest add ${COMPONENT_NAME}` を実行します。
