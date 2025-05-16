@@ -30,6 +30,14 @@ export default function Home() {
 							Scroll in View
 						</a>
 					</li>
+					<li>
+						<a
+							href="/justify"
+							className="flex items-center rounded-md bg-black px-4 py-2 text-white transition-colors hover:bg-gray-800"
+						>
+							Justify
+						</a>
+					</li>
 				</ul>
 			</main>
 		</div>
