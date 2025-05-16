@@ -1,7 +1,13 @@
+"use client";
+
+import { motion } from "motion/react";
+
 function Basic() {
 	return (
-		<div className="h-screen w-screen flex flex-col gap-4">
-			<div className="w-10 h-10 bg-red-500" />
+		<div className="flex h-screen w-screen flex-col items-center justify-center gap-4">
+			<motion.div animate={{ x: 100 }}>
+				<div className="h-24 w-24 bg-red-500" />
+			</motion.div>
 		</div>
 	);
 }
