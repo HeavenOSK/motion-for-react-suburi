@@ -22,6 +22,14 @@ export default function Home() {
 							Button
 						</a>
 					</li>
+					<li>
+						<a
+							href="/scroll-in-view"
+							className="flex items-center rounded-md bg-black px-4 py-2 text-white transition-colors hover:bg-gray-800"
+						>
+							Scroll in View
+						</a>
+					</li>
 				</ul>
 			</main>
 		</div>
