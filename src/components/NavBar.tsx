@@ -7,7 +7,7 @@ export default function NavBar() {
 				Motion React Demo
 			</Link>
 			<a
-				href="https://github.com/your-repo"
+				href="https://github.com/HeavenOSK/motion-for-react-suburi"
 				target="_blank"
 				rel="noopener noreferrer"
 				className="text-sm text-white/70 hover:text-white"
